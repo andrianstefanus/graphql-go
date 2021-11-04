@@ -237,7 +237,7 @@ func TestHelloSnake(t *testing.T) {
 			`,
 			ExpectedResult: `
 				{
-					"hello_html": "Hello snake!"
+					"hello_html": "Hello snak123e!"
 				}
 			`,
 		},
